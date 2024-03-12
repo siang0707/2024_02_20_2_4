@@ -23,7 +23,6 @@ while(True):
             print("再大一點")
             min = keyin + 1
         print(f"您已經猜了{count}次")
-
     is_again:str = print("請問是否還要再繼續遊戲(y,n)?")
     if is_again == 'y':
         continue
