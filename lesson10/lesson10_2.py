@@ -1,4 +1,4 @@
-from tools_4 import get_names
+from tools import get_names
 import pyinputplus as pyip
 
 def main():
